@@ -48,8 +48,7 @@ def bubble_sort(items):
                     items[j], items[j + 1] = items[j +1], items [j]
 ```
 
-#### Line(s) highlightedvvvvvvvvvvvv
-v
+#### Line(s) highlighted
 ``` py hl_lines="2 3"
 def bubble_sort(items):
     for i in range(len(items)):
