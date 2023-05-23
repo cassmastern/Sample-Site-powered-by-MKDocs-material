@@ -1,4 +1,4 @@
-# Homepage
+# Home
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -57,12 +57,6 @@ def bubble_sort(items):
                     items[j], items[j + 1] = items[j +1], items [j]
 ```
 
-##Icons and Emojis
+## Icons and Emojis
 
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
+:smile: :fontawesome-regular-face-laugh-wink: :fontawesome-brands-twitter:{ .twitter } :octicons-heart-fill-24:{ .heart }

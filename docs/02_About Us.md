@@ -1,4 +1,4 @@
-# Page 2
+# About Us
 
 ## Another heading
 

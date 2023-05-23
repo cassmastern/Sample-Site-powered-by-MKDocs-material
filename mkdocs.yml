@@ -1,4 +1,4 @@
-site_name: MKDocs YouTube Tutorial
+site_name: Sample Site powered by MKDocs-material
 theme:
   name: material
   features:
