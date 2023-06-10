@@ -12,6 +12,8 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  plugins:
+  - glightbox
   palette:
     - scheme: default
       toggle:
@@ -35,6 +37,8 @@ extra:
       link: https://www.linkedin.com/in/willettjames
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite

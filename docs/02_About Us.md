@@ -2,8 +2,12 @@
 
 ## About this platform 
 
-<<Brief description of the platform and its features>>
+`<<Brief description of the platform and its features>>`
 
-## Abvout our affiliates
+![Platform](img/platform.jpg)
 
-<<list by category with links to profiles>>
+## About our affiliates
+
+'<<list by category with links to profiles>>'
+
+![affiliates](img/affiliates/affiliates.png)
