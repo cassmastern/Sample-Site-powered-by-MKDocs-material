@@ -1,6 +1,6 @@
 # Home
 
-<<remove all that's underneath; replace with new structure>>
+Huh? `<<remove all that's underneath; replace with new structure>>.`
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
