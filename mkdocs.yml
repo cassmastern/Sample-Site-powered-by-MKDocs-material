@@ -35,6 +35,8 @@ extra:
       link: http://twitter.com/TheJamesWillett
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/willettjames
+  
+  
 
 markdown_extensions:
   - attr_list
